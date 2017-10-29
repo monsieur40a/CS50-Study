@@ -1,5 +1,4 @@
-/** UpperorLower.c
-      * Complete the following program that prompts the user to enter an alphabetical character
+/** Complete the following program that prompts the user to enter an alphabetical character
        * and determines whether the character is uppercase or lowercase.
 */
 
