@@ -9,7 +9,7 @@ int main(void)
 {
     long unsigned int intval;
 
-    printf("Please enter a positive integer to be converted to binary: ");
+    printf("Please enter a positive integer (Up to 2^32 - 1, long unsigned) to be converted to binary: ");
     scanf("%lu", &intval);
 
     long unsigned int _remainder;
